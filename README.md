@@ -14,6 +14,6 @@ TikTok and YouTube Shorts Trend Predictions 2025
 A predictive modeling project analyzing what drives short-video popularity on TikTok and YouTube.
 
 ## Repository Structure
-- data: Dataset used in the project
 - code: Python scripts and Jupyter notebooks
+- data: Dataset used in the project
 - README.md: Project documentation
