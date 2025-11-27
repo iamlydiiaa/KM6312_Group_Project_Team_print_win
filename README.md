@@ -1,4 +1,4 @@
-# KM6312_Group_Project_Team_print_win_
+# KM6312_Group_Project_Team_print_win
 
 ## Project Title
 TikTok and YouTube Shorts Trend Predictions 2025
